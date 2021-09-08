@@ -2,7 +2,6 @@
 
 https://academy.uipath.com/learningpath/robotic-enterprise-framework-deep-dive
 
-
 #### Key steps and processes:
 1. Loging in to ACME website and scrapping data from there
 2. Filtering data and adding it as items to Orchestrator queue
